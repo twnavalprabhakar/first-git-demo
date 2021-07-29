@@ -1,1 +1,2 @@
 This is File 1 -> change 1.
+Change 2: done after git config --global --edit using vi to update email.
